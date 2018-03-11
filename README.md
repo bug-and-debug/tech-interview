@@ -7,14 +7,14 @@
      https://docs.mongodb.com/manual/installation/
      
 2. Installation
-  * Clone & setup github repository on your local
-    git clone https://github.com/devkingdom1116/tech-interview.git
-    cd tech-interview
-    npm install
-  * Populating mock data
-    npm run populate
-  * Run server
-    npm start
+   * Clone & setup github repository on your local.
+     git clone https://github.com/devkingdom1116/tech-interview.git
+     cd tech-interview
+     npm install
+   * Populating mock data.
+     npm run populate
+   * Run server
+     npm start
     
 3. Test APIs
   Please reference the API document
